@@ -43,5 +43,3 @@ Desafios:
 
 * O notebook disponibilizado no fork será considerado o entregável final para esta etapa do processo seletivo.
 
-## Dúvidas
-Caso exista qualquer dúvida favor entrar em contato através dos e-mails francisco.felix@sefa.pa.gov.br / aline.serrao@sefa.pa.gov.br / thiago.listo@sefa.pa.gov.br
